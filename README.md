@@ -1,6 +1,7 @@
 # Ohjelmointisuunnittelu
 
 ![](http://www.indiewire.com/wp-content/uploads/2014/02/samuel-l-jackson.jpg)
+[Repon wiki](https://github.com/laurivirtanen/ohjelmointisuunnittelu/wiki)
 
 | Leffa | Julkaisuvuosi |
 | :-----|--------------:|
