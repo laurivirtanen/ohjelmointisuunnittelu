@@ -8,4 +8,4 @@ Your bones don't break, mine do. That's clear. Your cells react to bacteria and 
 
 ### Alaotsikko
 
-[Sampan sivut] (https://fi.wikipedia.org/wiki/Samuel_L._Jackson)
+[Samuel L Jacksonin wiki-sivut] (https://fi.wikipedia.org/wiki/Samuel_L._Jackson)
