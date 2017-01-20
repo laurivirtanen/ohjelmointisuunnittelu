@@ -1,6 +1,6 @@
 # Ohjelmointisuunnittelu
 
-
+![](http://www.indiewire.com/wp-content/uploads/2014/02/samuel-l-jackson.jpg)
 
 ## Alaotsikko
 
