@@ -48,13 +48,14 @@ Mahdollinen asiakas
 
 Töissä käytössä monipuoliset tietotekniset välineet. Kotona paljon viihde-elektroniikkaa joissa käytetään suoratoistopalveluita. Harrastusmielessä on tehnyt myös joitain kotiautomaatiosovelluksia
 
-https://i.ytimg.com/vi/KEkrWRHCDQU/maxresdefault.jpg
 
-# Työnantaja
+
+
+# John Hackerman
 
 Keksi näitä lisää!
 
-![](https://i.ytimg.com/vi/KEkrWRHCDQU/maxresdefault.jpg)
+![](https://i.ytimg.com/vi/KEkrWRHCDQU/maxresdefault.jpg = 250x250)
 
   * Mr Who
   * Who on 28 vuotias tradenomi. 
