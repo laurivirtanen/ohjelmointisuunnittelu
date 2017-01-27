@@ -55,7 +55,7 @@ Töissä käytössä monipuoliset tietotekniset välineet. Kotona paljon viihde-
 
 Keksi näitä lisää!
 
-![](https://i.ytimg.com/vi/KEkrWRHCDQU/maxresdefault.jpg = 250x250)
+![](https://i.ytimg.com/vi/KEkrWRHCDQU/maxresdefault.jpg)
 
   * Mr Who
   * Who on 28 vuotias tradenomi. 
