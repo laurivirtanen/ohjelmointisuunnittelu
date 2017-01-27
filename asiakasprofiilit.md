@@ -22,7 +22,7 @@ Mahdollinen asiakas
 
 Töissä käytössä monipuoliset tietotekniset välineet. Kotona paljon viihde-elektroniikkaa joissa käytetään suoratoistopalveluita. Harrastusmielessä on tehnyt myös joitain kotiautomaatiosovelluksia
 
-
+------------------------------------------------------------------------------------
 
 # Työnantaja
 
@@ -49,7 +49,7 @@ Mahdollinen asiakas
 Töissä käytössä monipuoliset tietotekniset välineet. Kotona paljon viihde-elektroniikkaa joissa käytetään suoratoistopalveluita. Harrastusmielessä on tehnyt myös joitain kotiautomaatiosovelluksia
 
 
-
+------------------------------------------------------------------------------------
 
 # John Hackerman
 
@@ -74,3 +74,4 @@ Mahdollinen asiakas
 ### Välineet ja vehkeet:
 
 Töissä käytössä monipuoliset tietotekniset välineet. Kotona paljon viihde-elektroniikkaa joissa käytetään suoratoistopalveluita. Harrastusmielessä on tehnyt myös joitain kotiautomaatiosovelluksia
+------------------------------------------------------------------------------------
